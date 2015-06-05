@@ -1,6 +1,6 @@
 set nu
 syntax on
-colo molokai
+colo monokai
 execute pathogen#infect()
 filetype plugin indent on
 let g:nerdtree_tabs_open_on_console_startup = 1
